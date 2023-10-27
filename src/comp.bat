@@ -1,0 +1,1 @@
+g++ sources\*.cpp headers\*.hpp -o Demineur
